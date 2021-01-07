@@ -1,18 +1,20 @@
 # blog-show-frontend
 
-## Project setup
+## R·H博客（润心博客）
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+个人博客前端展示的页面
 ```
 
-### Compiles and minifies for production
+### 1.页面模块介绍
 ```
-npm run build
+1. Loading页面
+2. 首页页面
+3. 暂无
+```
+
+#### Loading页面
+```
+网站页面首次加载缓冲时展示，要求简洁，美观，也可当作网站的banner使用
 ```
 
 ### Lints and fixes files
